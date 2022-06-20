@@ -1,0 +1,11 @@
+package entities;
+
+public class Account {
+
+	public int number;
+	public String holder;
+	public double balance;
+	
+	
+	
+}
